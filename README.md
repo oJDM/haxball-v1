@@ -20,3 +20,10 @@ Başlıca özellikler:
 * Maç kayıtları webhook vasıtası ile Discord'a gönderiliyor.
 * Otomatik olarak 5 dakikada bir (Ayarlanabilir) veri tabanında yer alan duyuruları sırasıyla odalara gönderir. Kod değişikliği yapmadan, odaları aç-kapat yapmadan duyurularınızı güncelleyebilirsiniz.
 * Kara liste eklendi. Veri tabanına eklediğiniz isim, auth ve conn(Ne yazık ki HaxBall'ın el verdiği kadar :/) değerlerinden herhangi birine takılan kullanıcı otomatik olarak yasaklanır. Kodda değişiklik yapmadan, odaları aç-kapat yapmadan dilediğiniz gibi veri tabanında güncelleme yapıp yeni yasaklama oluşturabilirsiniz.
+
+Tüm bunların hepsi tamamen ücretsiz olarak HaxBall Online YouTube kanalında paylaşılmış olup ücretli satılması, paylaşılması yasaktır.
+HaxBall Online YouTube - https://www.youtube.com/@haxballonline
+HaxBall Online Discord - https://www.discord.gg/qsHq2ZP
+
+Dip Not: Revizasyon çalışmalarında mertushka ve jakjus tarafından geliştirilmiş olan haxball.js kütüphanesi kullanılmıştır.
+Haxball.js GitHub - https://github.com/mertushka/haxball.js
