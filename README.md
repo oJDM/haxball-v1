@@ -24,6 +24,7 @@ Başlıca özellikler:
 Tüm bunların hepsi tamamen ücretsiz olarak HaxBall Online YouTube kanalında paylaşılmış olup ücretli satılması, paylaşılması yasaktır.
 
 HaxBall Online YouTube - https://www.youtube.com/@haxballonline
+
 HaxBall Online Discord - https://www.discord.gg/qsHq2ZP
 
 Dip Not: Revizasyon çalışmalarında mertushka ve jakjus tarafından geliştirilmiş olan haxball.js kütüphanesi kullanılmıştır.
